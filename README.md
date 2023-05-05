@@ -10,7 +10,7 @@ Desenvolvedor Front-End
 
 
 
-<h3Tecnologias que utilizo em desenvolvimento Web e análise de dados</h3>
+<h3> Tecnologias que utilizo em desenvolvimento Web e análise de dados </h3>
 
 <div style="display: inline_block"><br>
   
@@ -26,11 +26,11 @@ Desenvolvedor Front-End
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   
- <ul>
+ <ul style="margin-top: 1em">
         <li>Power BI</li>
         <li>SQL</li>
         <li>Excel + VBA</li>     
     </ul>
-
 </div>
 
+<h4> Atualmente realizando cursos na plataforma Alura </h4>
