@@ -26,8 +26,10 @@ Desenvolvedor Front-End
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
 
-
- <ul style="margin-top= 1em;">
+<br>
+<br>
+  
+ <ul>
    <li>Power BI</li>
    <li>SQL</li>
    <li>Excel + VBA</li>     
