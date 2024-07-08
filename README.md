@@ -1,7 +1,5 @@
 Olá! Eu sou Jaime Luiz Hansen Filho!
 
-Desenvolvedor Front-End e Analista de Dados
-
 <div> 
   <a href = "mailto:jaimehansenfilho@gmail.com" title="jaimehansenfilho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="jaimehansenfilho@gmail.com"></a>
   <a href="https://www.linkedin.com/in/jaime-luiz-hansen-filho-5214a0168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
@@ -10,7 +8,6 @@ Desenvolvedor Front-End e Analista de Dados
 
  ##
 
-<h3> Tecnologias que utilizo em desenvolvimento Web e análise de dados </h3>
 
 <div style="display: inline_block"><br>
   
