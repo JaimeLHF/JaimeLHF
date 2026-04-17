@@ -44,10 +44,3 @@ Desenvolvedor com foco em **Web** e **Dados**, sempre explorando novas tecnologi
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=default&hide_border=true&langs_count=8">
-</div>
